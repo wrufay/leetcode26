@@ -1,5 +1,5 @@
 from typing import Optional
-# First solved May 4th 2026
+# First solved 05/04/26
 
 class ListNode:
     def __init__(self, val=0, next=None):
