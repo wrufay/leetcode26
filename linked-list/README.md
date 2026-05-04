@@ -9,3 +9,6 @@
 | 206 | Reverse Linked List | Easy | [206_reverse_linked_list.py](206_reverse_linked_list.py) |
 | 243 | Palindrome Linked List | Easy | [243_palindrome_linked_list.py](243_palindrome_linked_list.py) |
 | 876 | Middle of the Linked List | Easy | [876_middle_of_linked_list.py](876_middle_of_linked_list.py) |
+| 203 | Remove Linked List Elements | Easy | [203_remove_linked_list_elements.py](203_remove_linked_list_elements.py) |
+
+
