@@ -1,11 +1,11 @@
+# First solved May 4, 2026
+
 from typing import Optional
-# First solved 05/04/26
 
 class ListNode:
     def __init__(self, val=0, next=None):
         self.val = val
         self.next = next
-
 
 class Solution:
     # Helper functions 

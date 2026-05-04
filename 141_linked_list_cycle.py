@@ -1,5 +1,4 @@
-# 141. Linked List Cycle
-# First solved 05/03/26
+# First solved May 3, 2026
 
 from typing import Optional
 
