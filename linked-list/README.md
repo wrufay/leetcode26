@@ -2,6 +2,7 @@
 
 | # | Title | Difficulty | File |
 |---|-------|------------|------|
+| 2 | Add Two Numbers | Medium | [2_add_two_numbers](2_add_two_numbers) |
 | 19 | Remove Nth Node From End of List | Medium | [19_remove_nth_node_from_end.py](19_remove_nth_node_from_end.py) |
 | 21 | Merge Two Sorted Lists | Easy | [21_merge_two_sorted_lists.py](21_merge_two_sorted_lists.py) |
 | 82 | Remove Duplicates from Sorted List II | Medium | [82_remove_duplicates_ii.py](82_remove_duplicates_ii.py) |
