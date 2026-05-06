@@ -10,6 +10,7 @@
 | 92 | Reverse Linked List II | Medium | [92_reverse_ll_two.py](92_reverse_ll_two.py) |
 | 141 | Linked List Cycle | Easy | [141_linked_list_cycle.py](141_linked_list_cycle.py) |
 | 143 | Reorder List | Medium | [143_reorder_list.py](143_reorder_list.py) |
+| 148 | Sort List | Medium | [148_sort_list.py](148_sort_list.py) |
 | 203 | Remove Linked List Elements | Easy | [203_remove_linked_list_elements.py](203_remove_linked_list_elements.py) |
 | 206 | Reverse Linked List | Easy | [206_reverse_linked_list.py](206_reverse_linked_list.py) |
 | 243 | Palindrome Linked List | Easy | [243_palindrome_linked_list.py](243_palindrome_linked_list.py) |
