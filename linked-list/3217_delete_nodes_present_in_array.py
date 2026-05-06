@@ -1,6 +1,6 @@
 # First solved May 4, 2026
 
-from typing import Optional
+from typing import Optional, List
 
 class ListNode:
     def __init__(self, val=0, next=None):
