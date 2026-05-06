@@ -15,6 +15,7 @@
 | 206 | Reverse Linked List | Easy | [206_reverse_linked_list.py](206_reverse_linked_list.py) |
 | 243 | Palindrome Linked List | Easy | [243_palindrome_linked_list.py](243_palindrome_linked_list.py) |
 | 328 | Odd Even Linked List | Medium | [328_odd_even_ll.py](328_odd_even_ll.py) |
+| 382 | Linked List Random Node | Medium | [382_linked_list_random_node.py](382_linked_list_random_node.py) |
 | 876 | Middle of the Linked List | Easy | [876_middle_of_linked_list.py](876_middle_of_linked_list.py) |
 | 1290 | Convert Binary Number in a Linked List to Integer | Easy | [1290_convert_binary_number_to_integer.py](1290_convert_binary_number_to_integer.py) |
 | 2095 | Delete the Middle Node of a Linked List | Medium | [2095_delete_middle_node.py](2095_delete_middle_node.py) |
