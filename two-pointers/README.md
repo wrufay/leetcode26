@@ -2,6 +2,7 @@
 
 | # | Title | Difficulty | File |
 |---|-------|------------|------|
+| 11 | Container With Most Water | Medium | [11_container_with_most_water.py](11_container_with_most_water.py) |
 | 26 | Remove Duplicates from Sorted Array | Easy | [26_remove_duplicates_from_sorted_array.py](26_remove_duplicates_from_sorted_array.py) |
 | 27 | Remove Element | Easy | [27_remove_element.py](27_remove_element.py) |
 | 125 | Valid Palindrome | Easy | [125_valid_palindrome.py](125_valid_palindrome.py) |
