@@ -2,6 +2,8 @@
 
 | # | Title | Difficulty | File |
 |---|-------|------------|------|
+| 94 | Binary Tree Inorder Traversal | Easy | [94_bt_inorder_traversal.py](94_bt_inorder_traversal.py) |
+| 98 | Validate Binary Search Tree | Medium | [98_validate_bst.py](98_validate_bst.py) |
 | 100 | Same Tree | Easy | [100_same_tree.py](100_same_tree.py) |
 | 104 | Maximum Depth of Binary Tree | Easy | [104_max_depth_in_tree.py](104_max_depth_in_tree.py) |
 | 111 | Minimum Depth of Binary Tree | Easy | [111_min_depth_binary_tree.py](111_min_depth_binary_tree.py) |
