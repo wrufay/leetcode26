@@ -1,4 +1,5 @@
 // First solved May 13, 2026
+// Quest: DSA - Array Q1)
 
 /**
  * Note: The returned array must be malloced, assume caller calls free().
