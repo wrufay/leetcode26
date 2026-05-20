@@ -8,6 +8,7 @@
 | 101 | Symmetric Tree | Easy | [101_symmetric_tree.py](101_symmetric_tree.py) |
 | 104 | Maximum Depth of Binary Tree | Easy | [104_max_depth_in_tree.py](104_max_depth_in_tree.py) |
 | 111 | Minimum Depth of Binary Tree | Easy | [111_min_depth_binary_tree.py](111_min_depth_binary_tree.py) |
+| 112 | Path Sum | Easy | [112_path_sum.py](112_path_sum.py) |
 | 114 | Flatten Binary Tree to Linked List | Medium | [114_flatten_bt_to_ll.py](114_flatten_bt_to_ll.py) |
 | 144 | Binary Tree Preorder Traversal | Easy | [144_bt_preorder_traversal.py](144_bt_preorder_traversal.py) |
 | 145 | Binary Tree Postorder Traversal | Easy | [145_bt_postorder_traversal.py](145_bt_postorder_traversal.py) |
