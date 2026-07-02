@@ -9,3 +9,4 @@
 | 347 | Top K Frequent Elements | Medium | [347_top_k_frequent.py](347_top_k_frequent.py) |
 | 242 | Valid Anagram | Easy | [242_valid_anagram.py](242_valid_anagram.py) |
 | 1365 | How Many Numbers Are Smaller Than the Current Number | Easy | [1365_how_many_nums.py](1365_how_many_nums.py) |
+| 268 | Missing Number | Easy | [268_missing_number.py](268_missing_number.py) |
