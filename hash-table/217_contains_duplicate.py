@@ -4,15 +4,19 @@ from typing import List
 
 class Solution:
     def containsDuplicate(self, nums: List[int]) -> bool:
-        nums_map = {}
+        # Create an empty hash set
+        all_nums = set()
+        # Loop through the `nums` array
         for num in nums:
-            if num in nums_map:
+            # At each element, check if that number already exists in the hashmap.
+            if num in all_nums:
+                # If it does - short circuit, return `true`
                 return True
+                # Otherwise, add that element to the hashmap and proceed looping through the array.
             else:
-                nums_map[num] = True
-                # uhh could also use a set to be cleaner since we don't need key value pairs for this question.
+                all_nums.add(num)
         
+        # Once we've looped through the entire array and no duplicate is found, return `false`
         return False
-
 
         
